@@ -1,0 +1,1 @@
+{"name":"Local: new","url":"c:\\Users\\91860\\OneDrive\\Desktop\\B21AI007_Assig3\\new.cpp","tests":[{"id":1699991974574,"input":"4 1\np|(q&(r>t))\np>r\nq>t\nq>(r=t)\nr\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91860\\OneDrive\\Desktop\\B21AI007_Assig3\\new.cpp","group":"local","local":true}
